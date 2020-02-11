@@ -105,3 +105,7 @@ D:\Repos\MagLaszlo\Polaris4\Polaris4\obj\Debug\Polaris4.csprojAssemblyReference.
 D:\Repos\MagLaszlo\Polaris4\Polaris4\obj\Debug\Polaris4.csproj.CopyComplete
 D:\Repos\MagLaszlo\Polaris4\Polaris4\obj\Debug\Polaris4.dll
 D:\Repos\MagLaszlo\Polaris4\Polaris4\obj\Debug\Polaris4.pdb
+D:\Repos\MagLaszlo\Polaris4\Polaris4\obj\Debug\Polaris4.Migrations.Identitydatamodel.resources
+D:\Repos\MagLaszlo\Polaris4\Polaris4\obj\Debug\Polaris4.csproj.GenerateResource.cache
+D:\Repos\MagLaszlo\Polaris4\Polaris4\obj\Debug\Polaris4.Migrations.addSzEtable.resources
+D:\Repos\MagLaszlo\Polaris4\Polaris4\obj\Debug\Polaris4.Migrations.addEszkoztable.resources

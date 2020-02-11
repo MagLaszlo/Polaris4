@@ -25,6 +25,10 @@ namespace Polaris4.Models
         {
         }
 
+        public DbSet<SzE> SzEs { get; set; }
+        public DbSet<Eszkoz> Eszkozs { get; set; }
+
+
         public static ApplicationDbContext Create()
         {
             return new ApplicationDbContext();
